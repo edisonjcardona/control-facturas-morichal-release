@@ -1,7 +1,7 @@
 {
-  "version": "1.8.55",
+  "version": "1.8.56",
   "release_date": "2026-10-19",
   "notes": "Unifica centros de costos: permite dos campos cualesquiera en cotizaciones, cuentas de cobro, facturas y edicion. Conserva las posiciones al guardar, normalizar y volver a abrir, sin exigir Todos ni completar automaticamente los tres campos.",
   "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/latest/download/ControlFacturas_Portable.zip",
-  "sha256": "f7532e2635d87a5c1baf4ab2f5749224e595d50fa009b604fc6a92a52531e9dd"
+  "sha256": "7ac953779df46fb511276e85e76a02ca7107818bf347318c83a55dbdb5a8fa41"
 }
