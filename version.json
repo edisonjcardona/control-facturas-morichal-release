@@ -1,7 +1,7 @@
 {
-  "version": "1.8.58",
+  "version": "1.8.59",
   "release_date": "2026-10-20",
-  "notes": "Autorizaciones: administrador con todas las obras y oficina, visor de cuentas por codigo y guardado local de decisiones y firma con envio a SharePoint en segundo plano, reintentos persistentes y recuperacion al reiniciar. Cotizaciones revisadas para Tesoreria, pago como anticipo por NIT sin egreso. Reversion de pagos con egreso, recuperacion de documentos y protecciones frente a sincronizacion simultanea. Corrige carpetas y soportes de egresos.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.57/ControlFacturas_Portable.zip",
-  "sha256": "944ac0ae49189bc5c86526b3bc423b980bf90c87b1fec1236d0e905c712e92bb"
+  "notes": "Autorizaciones: firma propia guardada para aprobar, rechazar y devolver sin repetir la clave en cada documento. La clave se verifica al ingresar y al guardar o reemplazar la firma. Conserva el consentimiento, la revisión del PDF, los permisos por obra y los controles de cuenta vigente. Mantiene el guardado local y el envío a SharePoint con reintentos en segundo plano. Contabilidad permite guardar y contabilizar sin completar los datos opcionales de Compras. Incluye las correcciones anteriores de cotizaciones y pagos.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.59/ControlFacturas_Portable.zip",
+  "sha256": "734bf9619c7d7b4e54a6661e50fdfcb882add2042f206c4a51baa0e991d25fb8"
 }
