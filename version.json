@@ -1,7 +1,7 @@
 {
-  "version": "1.8.57",
+  "version": "1.8.58",
   "release_date": "2026-10-20",
   "notes": "Autorizaciones: administrador con todas las obras y oficina, visor de cuentas por codigo y guardado local de decisiones y firma con envio a SharePoint en segundo plano, reintentos persistentes y recuperacion al reiniciar. Cotizaciones revisadas para Tesoreria, pago como anticipo por NIT sin egreso. Reversion de pagos con egreso, recuperacion de documentos y protecciones frente a sincronizacion simultanea. Corrige carpetas y soportes de egresos.",
   "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.57/ControlFacturas_Portable.zip",
-  "sha256": "e6ed185e411c29014276b8cea40058cad68a3acfa2fb3ea3ab0d0ebefd33b8ef"
+  "sha256": "944ac0ae49189bc5c86526b3bc423b980bf90c87b1fec1236d0e905c712e92bb"
 }
