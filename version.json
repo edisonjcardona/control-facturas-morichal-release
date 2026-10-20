@@ -1,7 +1,7 @@
 {
-  "version": "1.8.59",
+  "version": "1.8.60",
   "release_date": "2026-10-20",
   "notes": "Autorizaciones: firma propia guardada para aprobar, rechazar y devolver sin repetir la clave en cada documento. La clave se verifica al ingresar y al guardar o reemplazar la firma. Conserva el consentimiento, la revisión del PDF, los permisos por obra y los controles de cuenta vigente. Mantiene el guardado local y el envío a SharePoint con reintentos en segundo plano. Contabilidad permite guardar y contabilizar sin completar los datos opcionales de Compras. Incluye las correcciones anteriores de cotizaciones y pagos.",
   "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.59/ControlFacturas_Portable.zip",
-  "sha256": "734bf9619c7d7b4e54a6661e50fdfcb882add2042f206c4a51baa0e991d25fb8"
+  "sha256": "7a4d5c644ad511d68550efc2519c011c6f02fb5eb49caa41ee08696ea218c36a"
 }
