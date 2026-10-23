@@ -1,7 +1,7 @@
 {
-  "version": "1.8.71",
+  "version": "1.8.72",
   "release_date": "2026-10-23",
   "notes": "Autorizaciones: asignación por uno o varios códigos del primer centro de costos y permiso para todos los centros sin ser administrador. Conserva las vistas de pendientes, revisadas y pagadas, y las aprobaciones con firma personal. Permite cambiar la contraseña dentro de la sesión y muestra errores reales de envío en recuperación por correo. Contabilidad puede reclasificar el centro de una cuenta pagada conservando su pago y sus valores. Mantiene las correcciones de sincronización, saldos, consecutivos y separación de egresos por origen y proveedor.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.71/ControlFacturas_Portable.zip",
-  "sha256": "282e8bd7b2dff6fed6876ca9c02cb618d672aa9d23e6d50f5da388c1091a9794"
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.72/ControlFacturas_Portable.zip",
+  "sha256": "784448852d46c1b1de8cdcad8bef0a03449d6e97f770226a95041aacf40d20c2"
 }
