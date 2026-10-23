@@ -1,7 +1,7 @@
 {
-  "version": "1.8.66",
-  "release_date": "2026-10-22",
-  "notes": "Corrige el filtro de Consecutivo contable en Compras y verifica la compatibilidad de los encabezados con los filtros permitidos de cada vista. Vista, Panel y Crear/consultar de Contabilidad quedan en una sola línea cuando hay espacio. Conserva el azul reforzado, la selección múltiple de consulta con Ctrl y las mejoras de documentos y sincronización.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.66/ControlFacturas_Portable.zip",
-  "sha256": "dc0c7b6a50e224142735792375673cb9b87c222a01ccb0ccb502afc8be42b854"
+  "version": "1.8.69",
+  "release_date": "2026-10-23",
+  "notes": "Sincronización: un documento duplicado o con error ya no detiene la llegada de las demás facturas; conserva los reintentos y registra la causa. Tesorería y Contabilidad distinguen pagos históricos con el mismo número por origen y proveedor, incluidos soportes, egresos y reversión. Unifica el saldo de tabla, filtros y resumen; evita reutilizar consecutivos y valida el proveedor de la carpeta. Autorizaciones incluye Consecutivo contable con filtro. Los errores de egreso muestran la causa y la solución.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.69/ControlFacturas_Portable.zip",
+  "sha256": "630a2e30d697158f566a47dc7a1730215c26ae52cc4c360e83e91e54443201e4"
 }
