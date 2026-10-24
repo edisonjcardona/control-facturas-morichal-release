@@ -1,7 +1,7 @@
 {
-  "version": "1.8.72",
+  "version": "1.8.75",
   "release_date": "2026-10-23",
-  "notes": "Autorizaciones: asignación por uno o varios códigos del primer centro de costos y permiso para todos los centros sin ser administrador. Conserva las vistas de pendientes, revisadas y pagadas, y las aprobaciones con firma personal. Permite cambiar la contraseña dentro de la sesión y muestra errores reales de envío en recuperación por correo. Contabilidad puede reclasificar el centro de una cuenta pagada conservando su pago y sus valores. Mantiene las correcciones de sincronización, saldos, consecutivos y separación de egresos por origen y proveedor.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.72/ControlFacturas_Portable.zip",
-  "sha256": "784448852d46c1b1de8cdcad8bef0a03449d6e97f770226a95041aacf40d20c2"
+  "notes": "Corrige la verificación y subida de soportes NO OC y adjuntos cuando el PDF fue renombrado al contabilizar: usa el identificador estable de SharePoint y conserva el soporte pendiente para reintentar. Mantiene retiro del PDF consolidado conservando el pago, reversión recuperable entre equipos, originales durante cinco días, impresión completa, doble clic, totales inmediatos y alertas de campos faltantes.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.75/ControlFacturas_Portable.zip",
+  "sha256": "cfd923ad1fbe11e489b33ee13fb58749d2b5da2478cf8bcd4a07643a7a0cd4a5"
 }
