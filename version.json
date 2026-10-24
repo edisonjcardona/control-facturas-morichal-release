@@ -1,7 +1,7 @@
 {
-  "version": "1.8.75",
+  "version": "1.8.76",
   "release_date": "2026-10-23",
-  "notes": "Corrige la verificación y subida de soportes NO OC y adjuntos cuando el PDF fue renombrado al contabilizar: usa el identificador estable de SharePoint y conserva el soporte pendiente para reintentar. Mantiene retiro del PDF consolidado conservando el pago, reversión recuperable entre equipos, originales durante cinco días, impresión completa, doble clic, totales inmediatos y alertas de campos faltantes.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.75/ControlFacturas_Portable.zip",
-  "sha256": "cfd923ad1fbe11e489b33ee13fb58749d2b5da2478cf8bcd4a07643a7a0cd4a5"
+  "notes": "Mejora Tesoreria: conserva tablas y resumen al regresar a una vista, refresca en segundo plano y evita bloquear la API con calculos repetidos. Agrega detalle de Movimientos y Anticipos, corrige la superposicion del visor PDF y muestra un error con reintento cuando la descarga se demora. Optimiza cruces de proveedores durante la sincronizacion y consulta solo la seleccion al validar pagos; mantiene los controles de autorizacion, saldos y documentos pagados.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.76/ControlFacturas_Portable.zip",
+  "sha256": "920ea02a6e4932e3e9fe6228c5b4b09178ee9cc308648a13cb5f36b49b1b4988"
 }
