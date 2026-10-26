@@ -1,7 +1,7 @@
 {
-  "version": "1.8.78",
+  "version": "1.8.80",
   "release_date": "2026-10-26",
-  "notes": "Corrige impresion de PDF con fuentes incrustadas. Permite revisar y anular cuentas marcadas pagadas por conciliacion cuando no tienen un pago real, con permiso contable, motivo y verificacion central. Agrega Consecutivo de egreso en Tesoreria: muestra el pago o intento que ocupa un numero y permite trasladarlo a otro numero libre, conservando valores, soportes, identidades e historial. Recupera correcciones interrumpidas, actualiza referencias y vinculos, y bloquea reintentos con numeracion anterior. Respeta un siguiente consecutivo libre indicado por el operador. Evita repetir dentro de una solicitud la consulta central de autorizaciones al guardar un pago; si los datos cambian o la verificacion vence, exige verificar nuevamente.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.78/ControlFacturas_Portable.zip",
-  "sha256": "d1275d6d3ba6197e6803e1b3eb6186cd7f14ea3b93ef4343fb0e11056e86b5bc"
+  "notes": "Auditoria de vinculos y acceso documental: consulta la ficha de origen antes de abrir PDFs, actualiza ubicaciones en las vistas locales y limita los originales de expedientes compartidos para usuarios sin acceso financiero. Invalida sesiones recordadas al cambiar la clave y aplica permisos sincronizados a sesiones abiertas. Agrega pausas progresivas a errores repetidos de sincronizacion conservando los pendientes y su diagnostico. Incluye las correcciones previas de impresion, anulacion controlada y consecutivos de egreso. Corrige el mensaje de disponibilidad en Tesoreria: cuando la consulta falla, muestra el error y deja de indicar que sigue comprobando. Conserva las validaciones de seguridad antes de pagar.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.80/ControlFacturas_Portable.zip",
+  "sha256": "8ffeea3bc42f6423bd62be418d8545b25cda0df3626481cf96ac4438755eb1f2"
 }
