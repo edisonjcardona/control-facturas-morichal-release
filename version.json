@@ -1,7 +1,7 @@
 {
-  "version": "1.8.76",
-  "release_date": "2026-10-23",
-  "notes": "Mejora Tesoreria: conserva tablas y resumen al regresar a una vista, refresca en segundo plano y evita bloquear la API con calculos repetidos. Agrega detalle de Movimientos y Anticipos, corrige la superposicion del visor PDF y muestra un error con reintento cuando la descarga se demora. Optimiza cruces de proveedores durante la sincronizacion y consulta solo la seleccion al validar pagos; mantiene los controles de autorizacion, saldos y documentos pagados.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.76/ControlFacturas_Portable.zip",
-  "sha256": "920ea02a6e4932e3e9fe6228c5b4b09178ee9cc308648a13cb5f36b49b1b4988"
+  "version": "1.8.77",
+  "release_date": "2026-10-26",
+  "notes": "Corrige sincronizacion de valores contables de cotizaciones y cuentas de cobro, la identificacion del PDF frente a ordenes de compra, y la actualizacion inmediata de vinculos e identificadores tras trasladar documentos. Evita recalculos repetidos de Tesoreria y netos incorrectos al abrir o restaurar una retencion. Mejora recuperacion y union de egresos sin repetir originales, conserva soportes recuperables y las verificaciones de autorizacion al confirmar pagos. Agrega eliminacion completa de programaciones aun no enviadas al banco, prioridad visible y acciones para recuperar adjuntos faltantes sin reintentos indefinidos.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.77/ControlFacturas_Portable.zip",
+  "sha256": "1fd8cd84b52daed9fd401d9c297e1b18370499e97788cc44ac007d719d89f715"
 }
