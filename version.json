@@ -1,7 +1,7 @@
 {
-  "version": "1.8.80",
-  "release_date": "2026-10-26",
-  "notes": "Auditoria de vinculos y acceso documental: consulta la ficha de origen antes de abrir PDFs, actualiza ubicaciones en las vistas locales y limita los originales de expedientes compartidos para usuarios sin acceso financiero. Invalida sesiones recordadas al cambiar la clave y aplica permisos sincronizados a sesiones abiertas. Agrega pausas progresivas a errores repetidos de sincronizacion conservando los pendientes y su diagnostico. Incluye las correcciones previas de impresion, anulacion controlada y consecutivos de egreso. Corrige el mensaje de disponibilidad en Tesoreria: cuando la consulta falla, muestra el error y deja de indicar que sigue comprobando. Conserva las validaciones de seguridad antes de pagar.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.80/ControlFacturas_Portable.zip",
-  "sha256": "8ffeea3bc42f6423bd62be418d8545b25cda0df3626481cf96ac4438755eb1f2"
+  "version": "1.8.81",
+  "release_date": "2026-10-27",
+  "notes": "Auditoria de vinculos y acceso documental: consulta la ficha de origen antes de abrir PDFs, actualiza ubicaciones en las vistas locales y limita los originales de expedientes compartidos para usuarios sin acceso financiero. Invalida sesiones recordadas al cambiar la clave y aplica permisos sincronizados a sesiones abiertas. Agrega pausas progresivas a errores repetidos de sincronizacion conservando los pendientes y su diagnostico. Incluye las correcciones previas de impresion, anulacion controlada y consecutivos de egreso. Corrige el mensaje de disponibilidad en Tesoreria: cuando la consulta falla, muestra el error y deja de indicar que sigue comprobando. Conserva las validaciones de seguridad antes de pagar. Retira las columnas de autorizacion de las vistas de Anticipos en Contabilidad y Tesoreria. Retira Sync de las tablas, ordena y colorea la prioridad antes de autorizacion y aclara columnas y resultado de carga de anticipos. Envia las bases de anticipos desde Contabilidad y confirma cada carga tras verificar SharePoint; informa errores y conserva reintentos.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.81/ControlFacturas_Portable.zip",
+  "sha256": "8907b4b122dd34eacef4f867454bb694e7a4a05c26e6782b4f0e9a759073fd36"
 }
