@@ -1,7 +1,7 @@
 {
-  "version": "1.8.88",
-  "release_date": "2026-10-28",
-  "notes": "Vinculos y carpetas coherentes, vista de Obra, estados visibles cada 5 segundos y consultas de Tesoreria con cache corto.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.88/ControlFacturas_Portable.zip",
-  "sha256": "77cb9be9cd10a3c4b823d636f376bf99529d97c0daebde2bb6e636153d0ea007"
+  "version": "1.8.93",
+  "release_date": "2026-11-02",
+  "notes": "Sincronizacion silenciosa y recuperable, lecturas cada cinco segundos, pagos visibles pronto en Contabilidad, confirmacion manual real, anclado multiple de columnas, Prioridad y Autorizacion juntas al final, mejoras de formularios y visores, reglas y devoluciones de aprobacion con control de evidencia.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.93/ControlFacturas_Portable.zip",
+  "sha256": "fc7203f0e3c169e91a009b0598989ae59701a342c0cd1cd00c162259b096659b"
 }
