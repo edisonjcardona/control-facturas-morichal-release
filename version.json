@@ -1,7 +1,7 @@
 {
-  "version": "1.8.95",
-  "release_date": "2026-11-03",
+  "version": "1.8.96",
+  "release_date": "2026-11-06",
   "notes": "Tesoreria muestra Anticipo para cotizaciones y actualiza el saldo del proveedor entre equipos. Sincronizacion de movimientos de anticipos con reintentos visibles, sin duplicar valores ni reactivar anulaciones. Mejoras de resolucion e identidad de PDF, impresion, proteccion del servicio local, actualizador y dependencias.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.95/ControlFacturas_Portable.zip",
-  "sha256": "6a0e1af6984584a41851f15f97921a76d9732e9fa1ea7e3a7be85afeb1f01065"
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.96/ControlFacturas_Portable.zip",
+  "sha256": "10708cb2302c7b476478f227e6bf30bdb3fb361a44b0ecff372a04b4fe690d64"
 }
