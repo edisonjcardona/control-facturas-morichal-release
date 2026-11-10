@@ -1,7 +1,7 @@
 {
-  "version": "1.8.97",
+  "version": "1.8.98",
   "release_date": "2026-11-09",
   "notes": "Reparacion prioritaria de pendientes anteriores con respaldo y verificacion en SharePoint. Recuperacion de cotizaciones publicadas con ID antiguo o PDF local ausente. Correccion de valores contables que regresaban al importe anterior y conciliacion del neto calculado. Permite completar obra y centro de costos vacios en documentos pagados conservando el pago; mantiene protegidas las reasignaciones reales y las diferencias financieras no verificables. Alertas con instrucciones, comparacion actualizada y confirmacion auditada de correcciones contables pendientes. Compras y Contabilidad validan los campos necesarios antes de crear pendientes y conservan los datos para corregirlos. Soporte contable descargable localmente, reintento real de publicacion y esperas que no se cuentan como fallos. Programacion de pagos guardada como solicitud durable; autorizaciones y reserva del paquete se completan en segundo plano. Revalidacion de saldos, reintentos sin duplicar la solicitud y retiro para corregirla. El archivo diario conserva activos los documentos con cambios locales pendientes.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.97/ControlFacturas_Portable.zip",
-  "sha256": "d63162efb468429d021c0e24ac4b59c508b90fba0568be280f00ce1e22975494"
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.98/ControlFacturas_Portable.zip",
+  "sha256": "14a52889fdfde15827cfa65f59ebc04c029a27227565b029caad21d0edd30431"
 }
