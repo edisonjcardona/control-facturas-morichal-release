@@ -1,7 +1,7 @@
 {
-  "version": "1.8.99",
+  "version": "1.8.101",
   "release_date": "2026-11-10",
-  "notes": "Corrige las descargas sin extension. Todos los visores y descargas de documentos conservan el formato correspondiente al archivo (PDF, imagenes, Excel, Word, CSV, ZIP y extension original). La ventana Guardar como de Windows completa la extension al renombrar y comprueba la sobreescritura sobre el nombre final. Se conserva el nombre original enviado por el servidor aunque su tipo de contenido sea generico.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.99/ControlFacturas_Portable.zip",
-  "sha256": "c9b8c5e6f259818755b170759c25efb38ac73484358511c35292a49c7c412b88"
+  "notes": "Soporte contable corto: el PDF separado contiene solo el bloque compacto, sin portada grande ni hoja completa de relleno. En la factura, el mismo bloque aparece arriba de la primera pagina. Reubica el bloque antiguo que estaba al final y evita duplicados al corregir valores. Conserva responsable, fechas, importes y evidencia de autorizacion del contenido original. Mantiene la correccion de descargas con extension automatica segun el archivo.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.101/ControlFacturas_Portable.zip",
+  "sha256": "9283c29211f8554808be7dc7c9227c7316b4e6e3d3b20b67227c0bfa48aabbf7"
 }
