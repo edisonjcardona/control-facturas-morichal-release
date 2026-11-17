@@ -1,7 +1,7 @@
 {
-  "version": "1.8.105",
+  "version": "1.8.106",
   "release_date": "2026-11-17",
   "notes": "Soporte contable corto: el PDF separado contiene solo el bloque compacto, sin portada grande ni hoja completa de relleno. En la factura, el mismo bloque aparece arriba de la primera pagina. Reubica el bloque antiguo que estaba al final y evita duplicados al corregir valores. Conserva responsable, fechas, importes y evidencia de autorizacion del contenido original. Mantiene la correccion de descargas con extension automatica segun el archivo.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.105/ControlFacturas_Portable.zip",
-  "sha256": "1d8f6eaa5675ceec225094cdc7c92e25b15002a49d6fd5842b6e2f2ab2f4ef32"
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.106/ControlFacturas_Portable.zip",
+  "sha256": "046295fd4d2a3c89f5e51d2bd938a2c46884c7028a1a89ec6579417358250d30"
 }
