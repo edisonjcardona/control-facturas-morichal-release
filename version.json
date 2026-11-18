@@ -1,7 +1,7 @@
 {
-  "version": "1.8.108",
-  "release_date": "2026-11-17",
-  "notes": "Corrección de pagos con el mismo consecutivo, reversión autorizada por clave maestra, trazabilidad del egreso anterior y verificación de vínculos y carpetas al anular o recuperar documentos.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.108/ControlFacturas_Portable.zip",
-  "sha256": "86116146542def691a0845859dffadcfed7bb04b01b477cf740456386e32e461"
+  "version": "1.8.110",
+  "release_date": "2026-11-18",
+  "notes": "Corrige los saldos locales al sincronizar con SharePoint y comprueba el saldo actual al seleccionar documentos para pago. Filtro de soporte de egreso, autorizaciones globales y edición trazable de abonos y datos de Tesorería.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.110/ControlFacturas_Portable.zip",
+  "sha256": "0763c9042c8b0ac41ec0481d7acf00cc7594dbf5e96beb04c5b26bcf06e9b4bc"
 }
