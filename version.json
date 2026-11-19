@@ -1,7 +1,7 @@
 {
-  "version": "1.8.112",
+  "version": "1.8.113",
   "release_date": "2026-11-19",
   "notes": "Corrige los saldos locales al sincronizar con SharePoint y comprueba el saldo actual al seleccionar documentos para pago. Filtro de soporte de egreso, autorizaciones globales y edición trazable de abonos y datos de Tesorería.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.112/ControlFacturas_Portable.zip",
-  "sha256": "5e478f009a0ac1de24202814410d2192210e96c193ccaea7223281ef8da78f59"
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.113/ControlFacturas_Portable.zip",
+  "sha256": "8da533e8c3677b5b3b7d893e5b91b2102d3d9e4ff2d120167e24c3485a98c793"
 }
