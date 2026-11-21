@@ -1,7 +1,7 @@
 {
-  "version": "1.8.115",
+  "version": "1.8.116",
   "release_date": "2026-11-20",
-  "notes": "Recupera la programación original desde la base y sus respaldos, verifica las autorizaciones antes de publicar y muestra el paquete 42 cuando SharePoint confirme sus 75 documentos. Mejora la recuperación de pendientes y la corrección de pagos.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.115/ControlFacturas_Portable.zip",
-  "sha256": "51d9f854a7cf8d81d5a3442bc39d0ddba6236c11754801ade23941bada5c676c"
+  "notes": "Organiza las vistas y el filtro de soportes de egreso, mejora la consulta de programación y permite a los usuarios maestros corregir pagos con trazabilidad. Conserva la recuperación y validación de sincronización en segundo plano.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.116/ControlFacturas_Portable.zip",
+  "sha256": "d7f15289a06297cd5821ba414bd85129da39e6578bf98c0e692343e2a4398b30"
 }
