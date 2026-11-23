@@ -1,7 +1,7 @@
 {
-  "version": "1.8.116",
-  "release_date": "2026-11-20",
-  "notes": "Organiza las vistas y el filtro de soportes de egreso, mejora la consulta de programación y permite a los usuarios maestros corregir pagos con trazabilidad. Conserva la recuperación y validación de sincronización en segundo plano.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.116/ControlFacturas_Portable.zip",
-  "sha256": "d7f15289a06297cd5821ba414bd85129da39e6578bf98c0e692343e2a4398b30"
+  "version": "1.8.117",
+  "release_date": "2026-11-23",
+  "notes": "Autorización compartida en centros 12/13/14 con el director de la obra; directores ven toda su obra; documentos completos de cotizaciones pagadas; reemplazar o eliminar documento principal y bloqueo de duplicados; corrección de pagos sin voltear el estado (conciliar retención directo).",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.117/ControlFacturas_Portable.zip",
+  "sha256": "989a9962a160cf726399f7b9f715d5c70946ba2d0a7f7fc52e23ce737f81be94"
 }
