@@ -1,7 +1,7 @@
 {
-  "version": "1.8.119",
+  "version": "1.8.120",
   "release_date": "2026-11-24",
-  "notes": "Documentos en programación bloqueados hasta que Tesorería los saque; aceptar nuevo saldo en programaciones detenidas; aviso fijo de programación guardada o no guardada; reemplazar o eliminar documento principal; bloqueo de adjuntos duplicados; arreglo del titileo del visor PDF.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.119/ControlFacturas_Portable.zip",
-  "sha256": "87814258eb17ecd77d95e2e02b02e60cb51d8217f9bb0de676d608bbf41f8af2"
+  "notes": "Registrar pago: valor adicional como anticipo del proveedor en el mismo egreso; cotizaciones pagadas escriben el saldo y se autocorrigen sin acumular errores de archivo; cotizaciones siguen el código definitivo de SharePoint sin detener la sincronización.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.120/ControlFacturas_Portable.zip",
+  "sha256": "9baac34dc7d46f2fbc95ef35daec846b87ee8fd86c737fac0064656e2f883009"
 }
