@@ -1,7 +1,7 @@
 {
-  "version": "1.8.118",
-  "release_date": "2026-11-23",
-  "notes": "Obra obligatoria con desplegable en cuentas de cobro, cotizaciones y facturas manuales; SharePoint ocupado (429/5xx) se reintenta solo con espera creciente en vez de pasar a error; pendientes que esperan a otro se muestran en espera; descartar un pendiente ya no lo borra: queda registrado con quién, cuándo y por qué; aprobar sin documento principal con alerta y observación; vista de documentos sin PDF en Contabilidad.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.118/ControlFacturas_Portable.zip",
-  "sha256": "e98f57e33b170a435a69d9b248eeeb71301086c4fdd786c972feeb6198fcfe4c"
+  "version": "1.8.119",
+  "release_date": "2026-11-24",
+  "notes": "Documentos en programación bloqueados hasta que Tesorería los saque; aceptar nuevo saldo en programaciones detenidas; aviso fijo de programación guardada o no guardada; reemplazar o eliminar documento principal; bloqueo de adjuntos duplicados; arreglo del titileo del visor PDF.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.119/ControlFacturas_Portable.zip",
+  "sha256": "87814258eb17ecd77d95e2e02b02e60cb51d8217f9bb0de676d608bbf41f8af2"
 }
