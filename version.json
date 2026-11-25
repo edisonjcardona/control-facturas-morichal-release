@@ -1,7 +1,7 @@
 {
-  "version": "1.8.120",
+  "version": "1.8.121",
   "release_date": "2026-11-24",
-  "notes": "Registrar pago: valor adicional como anticipo del proveedor en el mismo egreso; cotizaciones pagadas escriben el saldo y se autocorrigen sin acumular errores de archivo; cotizaciones siguen el código definitivo de SharePoint sin detener la sincronización.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.120/ControlFacturas_Portable.zip",
-  "sha256": "9baac34dc7d46f2fbc95ef35daec846b87ee8fd86c737fac0064656e2f883009"
+  "notes": "Arranque desde cero: cada equipo se reinicia una vez desde SharePoint con copia de respaldo. Alerta arriba con los pendientes que necesitan acción. La columna Egreso se crea sola y los egresos en espera ya no salen como error.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.121/ControlFacturas_Portable.zip",
+  "sha256": "300cf2970a8bea730a5e5c5e7c4e3b0e9fc8261700fea0063c3cb72b441a3a91"
 }
