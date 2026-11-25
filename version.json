@@ -1,7 +1,7 @@
 {
-  "version": "1.8.125",
+  "version": "1.8.126",
   "release_date": "2026-11-25",
-  "notes": "Corrige 'No se pudo identificar el PDF original' en facturas cuyas carpetas se movieron a un egreso: la app reconoce el PDF que lleva el nombre de la carpeta, aunque el código o el folio hayan cambiado, y no se confunde con su copia -1.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.125/ControlFacturas_Portable.zip",
-  "sha256": "55457a26ec9593a48a829a0cd680303937d3784a4a2e81567a27e9f0eac4fbf1"
+  "notes": "Gestionar egreso: la lista de la carpeta del pago muestra los archivos de cada subcarpeta (por ejemplo la cotización con su original y sus soportes), y el estado del expediente sale de la evidencia: FINAL cuando el PDF EGRESO coincide con el soporte confirmado del pago, NO VERIFICADO cuando no se puede comprobar.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.126/ControlFacturas_Portable.zip",
+  "sha256": "026fad4518a091b39145d5d0db8ff956c9d5d5a733d8e613e6d0da8da083ea6f"
 }
