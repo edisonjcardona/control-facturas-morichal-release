@@ -1,7 +1,7 @@
 {
-  "version": "1.8.123",
+  "version": "1.8.124",
   "release_date": "2026-11-25",
-  "notes": "Caja menor: las facturas de Compras salen al instante en la ventana. El aviso de sincronización flota sobre la pantalla y ya no oculta el contenido del módulo.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.123/ControlFacturas_Portable.zip",
-  "sha256": "b6099633622e0fc7834db739b85a1521c53b7c81856febf6d52b11c8477d4223"
+  "notes": "Caja menor: las facturas de Compras aparecen como filas de la misma tabla de la caja, con las sugeridas para cada responsable primero; ya no se ofrecen las facturas que Contabilidad marcó como contabilizadas.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.124/ControlFacturas_Portable.zip",
+  "sha256": "bf7f1ac38ad19d023d2e7705237579b619d90d64f780f7ba95efd0d2556786f2"
 }
