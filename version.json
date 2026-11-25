@@ -1,7 +1,7 @@
 {
-  "version": "1.8.124",
+  "version": "1.8.125",
   "release_date": "2026-11-25",
-  "notes": "Caja menor: las facturas de Compras aparecen como filas de la misma tabla de la caja, con las sugeridas para cada responsable primero; ya no se ofrecen las facturas que Contabilidad marcó como contabilizadas.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.124/ControlFacturas_Portable.zip",
-  "sha256": "bf7f1ac38ad19d023d2e7705237579b619d90d64f780f7ba95efd0d2556786f2"
+  "notes": "Corrige 'No se pudo identificar el PDF original' en facturas cuyas carpetas se movieron a un egreso: la app reconoce el PDF que lleva el nombre de la carpeta, aunque el código o el folio hayan cambiado, y no se confunde con su copia -1.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.125/ControlFacturas_Portable.zip",
+  "sha256": "55457a26ec9593a48a829a0cd680303937d3784a4a2e81567a27e9f0eac4fbf1"
 }
