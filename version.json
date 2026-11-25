@@ -1,7 +1,7 @@
 {
-  "version": "1.8.122",
-  "release_date": "2026-11-24",
-  "notes": "Caja menor: sugiere primero las facturas de cada responsable. El aviso de sincronización ya no parpadea y solo aparece al abrir la app; después sincroniza en segundo plano.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.122/ControlFacturas_Portable.zip",
-  "sha256": "8a2904b784d0541aee554da33d2ce9e7144070392059d4a812f893bee994a32b"
+  "version": "1.8.123",
+  "release_date": "2026-11-25",
+  "notes": "Caja menor: las facturas de Compras salen al instante en la ventana. El aviso de sincronización flota sobre la pantalla y ya no oculta el contenido del módulo.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.123/ControlFacturas_Portable.zip",
+  "sha256": "b6099633622e0fc7834db739b85a1521c53b7c81856febf6d52b11c8477d4223"
 }
