@@ -1,7 +1,7 @@
 {
-  "version": "1.8.128",
+  "version": "1.8.129",
   "release_date": "2026-11-26",
-  "notes": "Compras: botón Crear proveedor (se evalúa al crearlo) y los proveedores ya registrados quedan aprobados. Autorizaciones muestra todos los documentos de cada factura, cuenta o cotización; los pagados solo con el filtro Pagadas. Tesorería y Contabilidad: el visor del pago muestra el PDF completo y los archivos de sus carpetas.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.128/ControlFacturas_Portable.zip",
-  "sha256": "28a637c3e2b5bbd8444d4d851ad21e0ac7f85043513ad60c1038966ce1c2c711"
+  "notes": "Egresos: las cotizaciones y cuentas se mueven a la carpeta del pago (sin copias) y sus vínculos las siguen; de una carpeta compartida solo sale lo pagado. PDF final en orden: egreso, comprobante y cada documento con sus soportes; se arma más rápido y la limpieza de 5 días deja solo el PDF completo. Al retirar una factura duplicada se elimina su carpeta repetida.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.129/ControlFacturas_Portable.zip",
+  "sha256": "1a7fc81fd1901ff7c58ecdd9341cfbd6518c2f8da08613302381dc1421e521a6"
 }
