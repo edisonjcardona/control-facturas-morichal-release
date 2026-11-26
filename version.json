@@ -1,7 +1,7 @@
 {
-  "version": "1.8.129",
+  "version": "1.8.130",
   "release_date": "2026-11-26",
-  "notes": "Egresos: las cotizaciones y cuentas se mueven a la carpeta del pago (sin copias) y sus vínculos las siguen; de una carpeta compartida solo sale lo pagado. PDF final en orden: egreso, comprobante y cada documento con sus soportes; se arma más rápido y la limpieza de 5 días deja solo el PDF completo. Al retirar una factura duplicada se elimina su carpeta repetida.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.129/ControlFacturas_Portable.zip",
-  "sha256": "1a7fc81fd1901ff7c58ecdd9341cfbd6518c2f8da08613302381dc1421e521a6"
+  "notes": "Egresos: corregido el PDF principal de las cuentas de cobro que salen de una carpeta compartida (ahora se pueden unir). Las carpetas que quedan vacías al trasladar documentos se eliminan; las carpetas generales se conservan.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.130/ControlFacturas_Portable.zip",
+  "sha256": "cf950f85ada7f59bd035219926db959d359f3d4e50e5652d3e03bca03fe3d48f"
 }
