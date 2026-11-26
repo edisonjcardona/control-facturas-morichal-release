@@ -1,7 +1,7 @@
 {
-  "version": "1.8.130",
+  "version": "1.8.131",
   "release_date": "2026-11-26",
-  "notes": "Egresos: corregido el PDF principal de las cuentas de cobro que salen de una carpeta compartida (ahora se pueden unir). Las carpetas que quedan vacías al trasladar documentos se eliminan; las carpetas generales se conservan.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.130/ControlFacturas_Portable.zip",
-  "sha256": "cf950f85ada7f59bd035219926db959d359f3d4e50e5652d3e03bca03fe3d48f"
+  "notes": "Egresos: si ya está unido, la pantalla del egreso abre solo el PDF completo; si no, muestra todos los documentos. Un vínculo a una carpeta general ya no muestra archivos de otros documentos.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.131/ControlFacturas_Portable.zip",
+  "sha256": "9f517065e1a8189276165907f93fa6d4891d196702681c6ae95322a8d6b934df"
 }
