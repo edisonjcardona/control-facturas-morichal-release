@@ -1,7 +1,7 @@
 {
-  "version": "1.8.126",
+  "version": "1.8.127",
   "release_date": "2026-11-25",
-  "notes": "Gestionar egreso: la lista de la carpeta del pago muestra los archivos de cada subcarpeta (por ejemplo la cotización con su original y sus soportes), y el estado del expediente sale de la evidencia: FINAL cuando el PDF EGRESO coincide con el soporte confirmado del pago, NO VERIFICADO cuando no se puede comprobar.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.126/ControlFacturas_Portable.zip",
-  "sha256": "026fad4518a091b39145d5d0db8ff956c9d5d5a733d8e613e6d0da8da083ea6f"
+  "notes": "Compras: evaluación de proveedores (aprobado desde 70 puntos) y órdenes de compra con consecutivo único, PDF imprimible, vista previa, recepción y calificación. La orden se crea desde la factura, cotización o cuenta de cobro, lee los datos del documento (con OCR de Windows si es escaneado) y se monta sola en la carpeta. Bloqueo de edición entre equipos. Mejoras en Cajas menores.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.127/ControlFacturas_Portable.zip",
+  "sha256": "56b1d6bbd2393b13168c006a96d720fb10a89459f95490d6e788ca7b27da8f37"
 }
