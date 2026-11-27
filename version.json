@@ -1,7 +1,7 @@
 {
-  "version": "1.8.133",
+  "version": "1.8.134",
   "release_date": "2026-11-27",
-  "notes": "Egresos: ya se unen los pagos de proveedores de pago directo y los documentos aprobados sin documento principal. Tesorería sigue exigiendo autorización para pagar.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.133/ControlFacturas_Portable.zip",
-  "sha256": "e26ac18c8694477bed0e5c4a0dcd53624090c73570afc61d62d87f989a8b0039"
+  "notes": "Egresos: aviso cuando queda guardado, con botón para verlo, y los soportes agregados después siguen visibles. PDF: se bloquean los idénticos y se permiten las versiones firmadas o distintas.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.134/ControlFacturas_Portable.zip",
+  "sha256": "f79ca612d3c7685a1da9c6536a04d023faff7a60d7d6f7fbff435161c8b81bad"
 }
