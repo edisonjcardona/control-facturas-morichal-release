@@ -1,7 +1,7 @@
 {
-  "version": "1.8.132",
-  "release_date": "2026-11-26",
-  "notes": "Más rapidez: la sincronización tarda cerca de la mitad, Anticipos abre al instante y varios adjuntos suben a la vez. Arreglos de pantalla en Contabilidad (celular y vista seleccionada).",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.132/ControlFacturas_Portable.zip",
-  "sha256": "f12e8746da0b8c51b5bd33d6db213d8e4b85320aafb4e7b7a2ab8c926332468a"
+  "version": "1.8.133",
+  "release_date": "2026-11-27",
+  "notes": "Egresos: ya se unen los pagos de proveedores de pago directo y los documentos aprobados sin documento principal. Tesorería sigue exigiendo autorización para pagar.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.133/ControlFacturas_Portable.zip",
+  "sha256": "e26ac18c8694477bed0e5c4a0dcd53624090c73570afc61d62d87f989a8b0039"
 }
