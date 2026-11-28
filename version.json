@@ -1,7 +1,7 @@
 {
-  "version": "1.8.134",
-  "release_date": "2026-11-27",
-  "notes": "Egresos: aviso cuando queda guardado, con botón para verlo, y los soportes agregados después siguen visibles. PDF: se bloquean los idénticos y se permiten las versiones firmadas o distintas.",
-  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.134/ControlFacturas_Portable.zip",
-  "sha256": "f79ca612d3c7685a1da9c6536a04d023faff7a60d7d6f7fbff435161c8b81bad"
+  "version": "1.8.135",
+  "release_date": "2026-11-28",
+  "notes": "Asistente de voz local (solo para usuarios con el permiso Asistente Ver): consulta, calcula, abre pantallas, crea documentos y prepara operaciones que la persona autoriza. Adjuntos: el primer adjunto ya no queda como OTRA_VERSION y una subida no se bloquea si un adjunto vecino no se lee. Limpieza de carpetas duplicadas y avisos de espera y error más claros.",
+  "download_url": "https://github.com/edisonjcardona/control-facturas-morichal-release/releases/download/1.8.135/ControlFacturas_Portable.zip",
+  "sha256": "eb4c8c3d2146501cfaad50a909fba19e4176ac875fe993fc33f3fd22deb4aab2"
 }
